@@ -19,7 +19,7 @@
 <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
 
 
-- 📫 Como falar conosco: [grupopp33@gmail.com](https://is.gd/aTwn5K)
+- 📫 Como falar conosco: [grupopp33@gmail.com](mailto:grupopp33@gmail.com)
 
 
 <!-- About section: END -->
