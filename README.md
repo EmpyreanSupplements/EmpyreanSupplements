@@ -33,9 +33,21 @@
 <!-- GITHUB STATUS -->
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmpyreanSupplements&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmpyreanSupplements&layout=compact&langs_count=7&theme=dracula"/>
+ 
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=EmpyreanSupplements&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmpyreanSupplements&layout=compact&theme=radical&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+#### Top Repositories
+
+
+
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+</a>
+
+<br />
+<br />
   
   <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 </div>
