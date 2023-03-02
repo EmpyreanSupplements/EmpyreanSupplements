@@ -108,6 +108,7 @@
 
 <br>
   <!-- Autor 3 -->
+  <a href="https://github.com/GiovanaJoice">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/89097348?v=4" width="150px;" alt=""/>
  <br />
  <sub><b>Giovana Joice</b></sub></a> <a href="https://github.com/GiovanaJoice" title="Rocketseat">🚀</a>
@@ -120,7 +121,7 @@
    <a href="mailto:gustavo.caetano13@gmail.com" target="_blank"><img src="https://play-lh.googleusercontent.com/D1Dz2BjPYev_oyksKXsdtAS66a_2Ql-sklpzTnwR9lqnDG_P5lAJEtfR70FudJ0XMA=s48-rw" style='width: 32px' target="_blank"></a>  
    
    <!-- Autor 4 -->
-<a href="https://blog.rocketseat.com.br/author/thiago/">
+<a href="https://github.com/GiovanaJoice">
  <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/380327?s=460&u=61b426b901b8fe02e12019b1fdb67bf0072d4f00&v=4" width="150px;" alt=""/>
  <br />
  <sub><b>Rubens Barcelos</b></sub></a> <a href="https://github.com/GiovanaJoice" title="Rocketseat">🚀</a>
