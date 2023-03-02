@@ -78,7 +78,7 @@
 ---
 
   <!-- Autor 1 -->
-<a href="https://blog.rocketseat.com.br/author/thiago/">
+<a href="https://github.com/cadumaia">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/126172311?v=4" width="150px;" alt=""/>
  <br />
  <sub><b>Carlos Eduardo</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago//" title="Rocketseat">🚀</a>
@@ -93,7 +93,8 @@
   <br>
   
   <!-- Autor 2 -->
-   <img style="border-radius: 50%;" src="https://drive.google.com/file/d/1RnzKK3QA0r7quV3CZrs1Cf83yiUa6VHI/view?usp=sharing" width="150px;" alt=""/>
+  <a href="https://github.com/stetetstst">
+   <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/101457639?v=4" width="150px;" alt=""/>
  <br />
  <sub><b>Carlos Eduardo</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago//" title="Rocketseat">🚀</a>
 
@@ -138,8 +139,8 @@ esther.oliveira.torres09@aluno.ifce.edu.br
   <br>
   
   <!-- Autor 5 -->
-<a href="https://blog.rocketseat.com.br/author/thiago/">
- <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/380327?s=460&u=61b426b901b8fe02e12019b1fdb67bf0072d4f00&v=4" width="150px;" alt=""/>
+<a href="https://github.com/Zinvx">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/115374703?v=4" width="150px;" alt=""/>
  <br />
  <sub><b>Zion Gabriel</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago//" title="Rocketseat">🚀</a>
 
