@@ -91,10 +91,12 @@
    <a href="mailto:gustavo.caetano13@gmail.com" target="_blank"><img src="https://play-lh.googleusercontent.com/D1Dz2BjPYev_oyksKXsdtAS66a_2Ql-sklpzTnwR9lqnDG_P5lAJEtfR70FudJ0XMA=s48-rw" style='width: 28px' target="_blank"></a>  
   
   <br>
+  
   <!-- Autor 2 -->
    <img style="border-radius: 50%;" src="https://drive.google.com/file/d/1RnzKK3QA0r7quV3CZrs1Cf83yiUa6VHI/view?usp=sharing" width="100px;" alt=""/>
  <br />
  <sub><b>Esther Torres</b></sub></a> <a href="https://blog.rocketseat.com.br/author/thiago//" title="Rocketseat">🚀</a>
+
 
 
 👋🏽 Entre em contato!
