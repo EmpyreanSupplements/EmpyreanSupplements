@@ -162,5 +162,6 @@ esther.oliveira.torres09@aluno.ifce.edu.br
   
 </div>
 
+  ![snake gif](https://github.com/EmpyreanSupplements/EmpyreanSupplements/blob/output/github-contribution-grid-snake.svg)
 <!-- THE END -->
 
