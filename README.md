@@ -82,7 +82,7 @@
 
   <!-- Autor 1 -->
 <a href="https://github.com/cadumaia">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/126172311?v=4" width="150px;" alt=""/>
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/126180307?v=4" width="150px;" alt=""/>
  <br />
  <sub><b>Carlos Eduardo</b></sub></a> <a href="https://github.com/cadumaia" title="Rocketseat">🚀</a>
 
