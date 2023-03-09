@@ -19,7 +19,7 @@
 <img align="right" alt="GIF" src="./code.gif" width="500" height="320" />
 
 
-- 📫 Nosso contato:grupopp33@gmail.com  <a href="mailto:grupopp33@gmail.com" target="_blank"><img src="https://play-lh.googleusercontent.com/D1Dz2BjPYev_oyksKXsdtAS66a_2Ql-sklpzTnwR9lqnDG_P5lAJEtfR70FudJ0XMA=s48-rw" style='width: 28px' target="_blank"></a> 
+- 📫 Nosso contato: grupopp33@gmail.com  <a href="mailto:grupopp33@gmail.com" target="_blank"><img src="https://play-lh.googleusercontent.com/D1Dz2BjPYev_oyksKXsdtAS66a_2Ql-sklpzTnwR9lqnDG_P5lAJEtfR70FudJ0XMA=s48-rw" style='width: 28px' target="_blank"></a> 
 
 
 
