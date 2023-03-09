@@ -158,15 +158,14 @@ esther.oliveira.torres09@aluno.ifce.edu.br
 
 
 <!-- Jeito certo -->
-
-
-
-<!-- Funciona mas não é o nosso -->
 <div align="center">
 
-  ![Snake animation](https://raw.githubusercontent.com/EmpyreanSupplements/snk/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/EmpyreanSupplements/EmpyreanSupplements/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+
+
+
 
 
 <!-- THE END -->
